@@ -1,17 +1,22 @@
 # 📔**Telecom Churn**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Drawio <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
-Source Dataset : Data Science Weekend <br>
+Visualization : Notebook<br>
+Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
+## Entity Relationship Diagram :
+<p align="center">
+    <kbd> <img width="200" alt="erd" src="erd telecom churn.png"> </kbd> <br>
+    Gambar 1 — ERD Dashboard
+</p>
+
 ## Background Project :
 Karena .
 
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+wuyti
 
 ## Goals :
 maneuhejrk
